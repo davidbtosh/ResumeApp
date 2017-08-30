@@ -1,0 +1,14 @@
+[
+    {
+        "company": "Monash University",
+        "timeframe": "Apr 2017 - Present",
+        "project": "Victorian Cardiac Outcomes Registry (VCOR) Project",
+        "details": "Registry website for medical data and producing data extracts and reporting.<br/>Created and designed new functional module to exist side by side within existing legacy web forms project. New module was MVC with JavaScript UI.  SQL Server with entity framework database and data layer. I was responsible for autonomously designing, developing, testing and managing user requirements and expectations"
+    },
+    {
+        "company": "Avant Mutual Group Ltd",
+        "timeframe": "Dec 2016 – Apr 2018",
+        "project": "Bizpack Project",
+        "details": "New insurance product offering to complement Avant’s current medical indemnity suite of products.<br/>Full stack MS development including development with both Oracle and SQL Server 2014 databases as well as .net core and Web API.  Project integrated with a third-party provider which provided web pages hosted inside the internal Avant insurance administration system (Aurora) Worked on 3 related areas of the solution. <br/>1. Aurora – internal web app - mixture of legacy web forms and MVC3/4 with heavy use of native JavaScript and JQuery <br/> 2. iClose – new .net core web API project to interface with external 3rd party web pages and APIs and provide services and integration to Aurora. (SQL Server DB)<br/> 3. Aurora integration – new .net core app for Bizpack product to interface with Aurora DB (Oracle) and provide data services to Aurora front end."
+    }
+]
